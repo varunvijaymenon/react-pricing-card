@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.Card-container{
+  display: flex;
+  justify-content: space-around;
+  background-image: linear-gradient(to right,#0063E6,#35AEFF);
+  padding: 3rem;
+  border-collapse: collapse;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
