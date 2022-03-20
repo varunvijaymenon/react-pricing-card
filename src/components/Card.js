@@ -1,4 +1,4 @@
-import { MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardHeader, MDBBtn, MDBRipple } from 'mdb-react-ui-kit';
+import { MDBCard, MDBCardBody,MDBCardHeader, MDBBtn } from 'mdb-react-ui-kit';
 import "./Card.css"
 
 export default function Card(props) {
